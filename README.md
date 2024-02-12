@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @thedarkness007
 - 👀 I’m interested in everything about computers
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on هf I miss something
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on if I miss something
+- 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
